@@ -1,0 +1,79 @@
+/* global styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* background image */
+.background-image {
+  height: 300px;
+  background-image: url('own1.jpeg');
+  background-size: cover;
+}
+.background-image2 {
+  height: 300px;
+  background-image: url('own2.jpeg');
+  background-size: cover;
+}
+.background-image3 {
+  height: 300px;
+  background-image: url('own3.jpeg');
+  background-size: cover;
+}
+.background-image4 {
+  height: 300px;
+  background-image: url('own4.jpeg');
+  background-size: cover;
+}
+.background-image5 {
+  height: 300px;
+  background-image: url('own5.jpeg');
+  background-size: cover;
+}
+/* user container */
+.user-container {
+  margin: 30px;
+  padding: 20px;
+  align-items: center;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+}
+
+/* heading */
+.a h1 {
+  margin: 10;
+  font-size: 32px;
+  color: rgb(142, 53, 53);
+}
+
+/* info */
+.info p {
+  margin: 0;
+  font-size: 18px;
+  color: #666;
+}
+
+/* model */
+.model p {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* year */
+.year p {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* color */
+.color p {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
